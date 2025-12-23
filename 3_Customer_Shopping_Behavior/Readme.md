@@ -31,6 +31,16 @@ Creating a structured project report summarizing key findings and business recom
 ---
 
 ## 🛠️ How to Use This Project
-### Clone the Repository
+###  1️⃣ Clone the Repository
 ```bash
+
+### 2️⃣ Run the Python Notebook
+
+Open **Customer_Shopping_Behavior_Analysis.ipynb**
+
+This notebook includes:
+- Data import
+- Data exploration
+- Data cleaning
+- Connection to SQL database
 
