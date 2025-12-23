@@ -31,5 +31,6 @@ Creating a structured project report summarizing key findings and business recom
 ---
 
 ## 🛠️ How to Use This Project
-
+### Clone the Repository
+```bash
 
