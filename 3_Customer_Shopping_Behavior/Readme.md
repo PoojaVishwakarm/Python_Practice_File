@@ -32,7 +32,6 @@ Creating a structured project report summarizing key findings and business recom
 
 ## 🛠️ How to Use This Project
 ###  1️⃣ Clone the Repository
-```bash
 
 ### 2️⃣ Run the Python Notebook
 
@@ -43,4 +42,8 @@ This notebook includes:
 - Data exploration
 - Data cleaning
 - Connection to SQL database
+-------------
+  
+
+
 
