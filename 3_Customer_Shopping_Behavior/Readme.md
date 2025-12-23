@@ -32,6 +32,7 @@ Creating a structured project report summarizing key findings and business recom
 
 ## 🛠️ How to Use This Project
 ###  1️⃣ Clone the Repository
+---
 
 ### 2️⃣ Run the Python Notebook
 
@@ -42,7 +43,31 @@ This notebook includes:
 - Data exploration
 - Data cleaning
 - Connection to SQL database
--------------
+---
+### 3️⃣ Load Data into SQL Database
+
+- Create a database in **MySQL / PostgreSQL / MS SQL Server**
+- Run Python code to load data from the notebook into the SQL database
+---
+### 4️⃣ Perform SQL Analysis
+
+Open **customer_behavior_sql_queries.sql**
+
+- Execute SQL queries
+- Answer business questions using SQL
+
+ ---
+ ### 5️⃣ Build Power BI Dashboard
+
+- Connect the SQL database to **Power BI**
+- Open **customer_behavior_dashboard.pbix**
+- Create an interactive dashboard in Power BI
+---
+### 6️⃣ Create Report & Presentation
+
+- Prepare a project report summarizing key insights and recommendations
+- Build a presentation deck using **Gamma AI**
+
   
 
 
