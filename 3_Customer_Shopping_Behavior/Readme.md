@@ -6,20 +6,6 @@ It covers all critical stages of data analysis — from **data preparation and m
 
 ---
 
-## 🎯 Who This Project Is For
-
-This project is ideal for:
-
-📊 **Data Analyst aspirants** building a strong, interview-ready portfolio for GitHub and LinkedIn  
-📚 **Learners of Python, SQL, and Power BI** seeking hands-on, real-world practice  
-💼 **Professionals preparing for interviews** in Data Analytics, Data Science, or Product Analytics roles  
-
-🎥 **YouTube Walkthrough**  
-Advanced Data Analysis Portfolio Project using Retail Customer Data  
-🔗 *Watch on YouTube*
-
----
-
 ## 📌 Project Overview
 
 The objective of this project is to simulate a **corporate-grade end-to-end analytics workflow**, demonstrating the ability to convert raw customer data into meaningful insights by:
@@ -39,14 +25,11 @@ Creating a structured project report summarizing key findings and business recom
 ---
 
 ## 🔄 Project Workflow
-*(End-to-end analytics lifecycle from raw data to insights and recommendations)*
+<img width="659" height="353" alt="Screenshot 2025-12-23 155128" src="https://github.com/user-attachments/assets/41741a1f-195a-4f12-a002-944a6db299a2" />
+
 
 ---
 
 ## 🛠️ How to Use This Project
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
 
