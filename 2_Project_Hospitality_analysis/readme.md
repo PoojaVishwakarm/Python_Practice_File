@@ -13,8 +13,6 @@ The objective of this project is to analyze **hotel occupancy and revenue perfor
 This project simulates a **corporate-grade analytics workflow**, covering:
 
 ✅ Data preparation & exploratory data analysis (Python)  
-✅ Business-driven analysis using SQL  
-✅ Interactive dashboard development in Power BI  
 ✅ Insight reporting and stakeholder-ready presentation  
 
 ---
