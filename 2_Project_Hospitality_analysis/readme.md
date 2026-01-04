@@ -23,8 +23,6 @@ This project simulates a **corporate-grade analytics workflow**, covering:
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Jupyter Notebook**
-- **SQL** (MySQL / PostgreSQL / SQL Server)
-- **Power BI**
 - **GitHub**
 
 ---
