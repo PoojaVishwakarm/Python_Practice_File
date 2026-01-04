@@ -73,18 +73,7 @@ This project simulates a **corporate-grade analytics workflow**, covering:
 
 ---
 
-## 📊 Power BI Dashboard
 
-The Power BI dashboard includes:
-
-- Occupancy Rate & Revenue KPIs  
-- City-wise and room-wise performance analysis  
-- Monthly revenue and occupancy trends  
-- Interactive slicers for dynamic analysis  
-
-*Designed for business stakeholders and decision-makers.*
-
----
 
 ## 🗂️ Repository Structure
 
