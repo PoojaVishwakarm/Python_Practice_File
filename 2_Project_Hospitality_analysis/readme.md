@@ -52,8 +52,8 @@ This project simulates a **corporate-grade analytics workflow**, covering:
 - Evaluated demand patterns across time periods  
 
 5️⃣ **Visualization & Reporting**  
-- Built an interactive Power BI dashboard  
-- Designed KPI cards, trend charts, and filters  
+- Built an interactive python library 
+- Designed trend charts, and filters  
 - Translated insights into business recommendations  
 
 ---
