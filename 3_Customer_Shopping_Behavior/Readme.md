@@ -46,7 +46,7 @@ This notebook includes:
 ---
 ### 3️⃣ Load Data into SQL Database
 
-- Create a database in **MySQL / PostgreSQL / MS SQL Server**
+- Create a database in **PostgreSQL**
 - Run Python code to load data from the notebook into the SQL database
 ---
 ### 4️⃣ Perform SQL Analysis
